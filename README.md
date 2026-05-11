@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a56a0?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-sourabh-prasad.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabh-prasad-4844281bb)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourabhprasad07@gmail.com)
-[![Location](https://img.shields.io/badge/Pune%2C%20India-🇮🇳-green?style=for-the-badge)](https://github.com/DxLRate)
+[![Location](https://img.shields.io/badge/Pune%2C%20India-🇮🇳-green?style=for-the-badge)](https://github.com/sourabh-prasad-dev)
 
 ![Open to Work](https://img.shields.io/badge/🟢%20Open%20to%20Opportunities-Full%20Stack%20%7C%2013--20%20LPA-success?style=for-the-badge)
 
@@ -207,20 +207,20 @@ I'm a **Full Stack .NET Developer** with **2+ years** of hands-on experience bui
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DxLRate&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DxLRate&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sourabh-prasad-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-prasad-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DxLRate&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sourabh-prasad-dev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DxLRate&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sourabh-prasad-dev&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
