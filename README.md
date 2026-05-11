@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a56a0&height=200&section=header&text=Sourabh%20Prasad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20.NET%20Developer%20%7C%20Healthcare%20%26%20Enterprise%20Systems&descAlignY=58&descSize=18"/>
 
 <!-- TYPING HEADLINE -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1a56a0&center=true&vCenter=true&width=700&lines=Full+Stack+.NET+Developer+%7C+2%3B+Years;ASP.NET+Core+%7C+React.js+%7C+Azure+Cloud;Building+Scalable+Healthcare+%26+Enterprise+Systems;Clean+Architecture+%7C+Microservices+%7C+REST+APIs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1a56a0&center=true&vCenter=true&width=700&lines=Full+Stack+.NET+Developer+%7C+3%2B+Years;ASP.NET+Core+%7C+React.js+%7C+Azure+Cloud;Building+Scalable+Healthcare+%26+Enterprise+Systems;Clean+Architecture+%7C+Microservices+%7C+REST+APIs)](https://git.io/typing-svg)
 
 <br/>
 
