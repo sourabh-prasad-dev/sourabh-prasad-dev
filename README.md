@@ -23,7 +23,7 @@
 
 > *"I don't just write code — I architect systems that scale, perform, and last."*
 
-I'm a **Full Stack .NET Developer** with **2+ years** of hands-on experience building mission-critical, distributed applications in **product-based healthcare companies**. I specialize in designing end-to-end software — from secure REST APIs and Windows Services to high-performance React frontends — with a constant focus on scalability, ownership, and engineering excellence.
+I'm a **Full Stack .NET Developer** with **3+ years** of hands-on experience building mission-critical, distributed applications in **product-based healthcare companies**. I specialize in designing end-to-end software — from secure REST APIs and Windows Services to high-performance React frontends — with a constant focus on scalability, ownership, and engineering excellence.
 
 - 🏥 Built systems used across **US & Canadian healthcare markets** (PACS, EMR)
 - ⚡ Optimized microservices achieving **~90% reduction in query loading time**
