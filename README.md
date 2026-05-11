@@ -186,21 +186,6 @@ I'm a **Full Stack .NET Developer** with **3+ years** of hands-on experience bui
 
 ---
 
-## 🧠 Engineering Principles I Live By
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                   MY ENGINEERING PHILOSOPHY                      │
-├──────────────────────┬──────────────────────────────────────────┤
-│  SOLID Principles    │  Every class has a single, clear purpose │
-│  Clean Architecture  │  Business logic never bleeds into UI     │
-│  Design Patterns     │  Repository, Factory, Observer, Strategy │
-│  Performance First   │  Profile before you optimize             │
-│  Security by Design  │  Auth & RBAC from day one, not day last  │
-│  Scalable Systems    │  Design for 10x before you need it       │
-└──────────────────────┴──────────────────────────────────────────┘
-```
-
 ---
 
 ## 📊 GitHub Statistics
@@ -223,38 +208,6 @@ I'm a **Full Stack .NET Developer** with **3+ years** of hands-on experience bui
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sourabh-prasad-dev&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-## 📚 Currently Exploring
-
-<div align="center">
-
-| Area | Focus |
-|------|-------|
-| 🏗️ System Design | Distributed systems, CAP theorem, event-driven architecture |
-| 🔬 Microservices | Service mesh, API gateway patterns, inter-service communication |
-| ☁️ Advanced Azure | Event Hub, Service Bus, Cosmos DB, AKS |
-| 🤖 AI-Assisted Dev | GitHub Copilot, LLM integration in enterprise apps |
-| 📐 Advanced .NET | Minimal APIs, gRPC, Blazor, .NET 8+ features |
-
-</div>
-
----
-
-## 🎯 Career Goals
-
-```yaml
-short_term:
-  - Architect enterprise-grade distributed systems at product-based companies
-  - Deepen expertise in cloud-native .NET development on Azure
-  - Contribute to open-source .NET / React ecosystems
-
-long_term:
-  - Grow into a Software Architect / Tech Lead role
-  - Build products that solve real-world problems at scale
-  - Mentor junior engineers and drive engineering culture
-```
 
 ---
 
